@@ -1,4 +1,4 @@
-<img href="./fdm.png" width="450px"></img>
+<img src="./fdm.png" width="450px"></img>
 
 ## Flexible Diffusion Modeling of Long Videos - Pytorch (wip)
 
